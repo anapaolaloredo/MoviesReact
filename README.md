@@ -1,2 +1,2 @@
 # MoviesReact
-Web design for the uploading and sharing of movies
+Web design for the uploading and sharing of movies. 
